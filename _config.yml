@@ -96,5 +96,8 @@ friends: [
      {
        title: "phone-website",
         href: "http://www.yi20.top/phone-website/"
+     },{
+       title: "Me",
+        href: "http://www.yi20.top/me/"
      }
 ]

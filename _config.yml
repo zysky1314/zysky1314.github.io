@@ -57,8 +57,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 56bc8f418644908b3fa1                           #生成的clientID
-  clientSecret: 27c7079f98d7ad64177d5ab5688025c94f7d51a1    #生成的clientSecret
+  clientID: 84f7593c13524bccfdad                           #生成的clientID
+  clientSecret: 53f3e8059e907962d9b1d674083bd37eb0769c9d    #生成的clientSecret
   repo: zysky1314.github.io    #仓库名称
   owner: zysky1314    #github用户名
   admin: zysky1314

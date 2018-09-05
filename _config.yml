@@ -99,5 +99,8 @@ friends: [
      },{
        title: "Me",
         href: "http://www.yi20.top/me/"
+     },{
+       title: "music-Random",
+        href: "http://www.yi20.top/Random-Music-Player/"
      }
 ]

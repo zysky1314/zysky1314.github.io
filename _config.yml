@@ -95,22 +95,22 @@ service-worker: true
 friends: [
      {
        title: "photograph",
-        href: "http://www.yi20.top/photo/"
+        href: "http://zysky1314.github.io/photo/"
      },
      {
        title: "phone-website",
-        href: "http://www.yi20.top/phone-website/"
+        href: "http://zysky1314.github.io/phone-website/"
      },
      {
        title: "Me",
-        href: "http://www.yi20.top/me/"
+        href: "http://zysky1314.github.io/me/"
      },
      {
        title: "music-Random",
-        href: "http://www.yi20.top/Random-Music-Player/"
+        href: "http://zysky1314.github.io/Random-Music-Player/"
      },
      {
        title: "music-tap",
-        href: "http://www.yi20.top/musictap/"
+        href: "http://zysky1314.github.io/musictap/"
      }
 ]
